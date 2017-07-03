@@ -2,3 +2,43 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+#topnav a {
+  font-size: 18px;
+  color: white;
+}
+
+.page-title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header {
+  background-color: black;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h2, h3 {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+}
+
+.design-banner {
+  color: white;
+  background-color: black;
+}
